@@ -169,4 +169,4 @@ EOL
 
 npx hardhat run scripts/getMessage.js --network swisstronik
 
-echo " Lotusyme"
+echo " Danny411"
